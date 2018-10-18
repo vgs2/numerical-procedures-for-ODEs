@@ -1,0 +1,1 @@
+euler_inverso 1 0 0.05 20 1-t+4*y
